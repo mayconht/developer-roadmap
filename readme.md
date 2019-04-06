@@ -23,8 +23,15 @@ Below you find a set of charts demonstrating the paths that you can take and the
 ## Introduction
 
 ![Web Developer Roadmap Introduction](./images/intro.png)
- - [**GIT/GITHUB** - Free](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
+ - [**Git/GitHub** - Free](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+ - [**SSH** - Free](https://www.youtube.com/watch?v=hQWRp-FdTpc)
+ - [**Semantic Versioning** - Free Text](https://semver.org/)
+ - [**Licenses** - Free Text](https://choosealicense.com/licenses/)
+ - [**Design Patterns** - Free Text](https://sourcemaking.com/design_patterns)
+ - [**kiss dry tda yagni soc** - Free Text](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
+ - [**Character encodings** - Free Text](https://www.w3.org/International/questions/qa-what-is-encoding)
+ 
 ## Frontend Roadmap
 
 ![Frontend Roadmap](./images/frontend.png)
@@ -33,6 +40,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 ## Back-end Roadmap
 
 ![Back-end Roadmap](./images/backend.png)
+- [**Java Programming Masterclass** - Paid](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/overview)
 
 ## DevOps Roadmap
 
