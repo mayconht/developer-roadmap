@@ -23,10 +23,12 @@ Below you find a set of charts demonstrating the paths that you can take and the
 ## Introduction
 
 ![Web Developer Roadmap Introduction](./images/intro.png)
+ - [**GIT/GITHUB** - Free](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ## Frontend Roadmap
 
 ![Frontend Roadmap](./images/frontend.png)
+
 
 ## Back-end Roadmap
 
