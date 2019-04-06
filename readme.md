@@ -33,7 +33,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 ## Back-end Roadmap
 
 ![Back-end Roadmap](./images/backend.png)
-- [**Java Prgoramming Masterclass** - Paid] (https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/overview)
+- [**Java Programming Masterclass** - Paid](https://www.udemy.com/java-the-complete-java-developer-course/learn/v4/overview)
 
 ## DevOps Roadmap
 
