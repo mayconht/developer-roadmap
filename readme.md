@@ -30,7 +30,11 @@ Below you find a set of charts demonstrating the paths that you can take and the
  - [**Licenses** - Free Text](https://choosealicense.com/licenses/)
  - [**Design Patterns** - Free Text](https://sourcemaking.com/design_patterns)
  - [**kiss dry tda yagni soc** - Free Text](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
+ - **Terminal Course** [**Part 1**](https://www.youtube.com/watch?v=4Zx7UE70Ehs) / [**Part 1.5**](https://www.youtube.com/watch?v=Nxy64wMv__A) / [**Part 2**](https://www.youtube.com/watch?v=EyfLawJ81dI) / [**Part 3**](https://www.youtube.com/watch?v=-WfG_sUz2A8)
  - [**Character encodings** - Free Text](https://www.w3.org/International/questions/qa-what-is-encoding)
+ - **Data Structures & Logic** - Choose a college or a technical school (Really important get the right path on this, because this includes math, general logic and language studies)
+ - [**HTTP / HTTPS**](https://www.globalsign.com/en/blog/the-difference-between-http-and-https/)
+ - [**API's**](https://restful.io/an-introduction-to-api-s-cee90581ca1b)
  
 ## Frontend Roadmap
 
