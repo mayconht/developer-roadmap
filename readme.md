@@ -30,6 +30,8 @@ Below you find a set of charts demonstrating the paths that you can take and the
  - [**Licenses** - Free Text](https://choosealicense.com/licenses/)
  - [**Design Patterns** - Free Text](https://sourcemaking.com/design_patterns)
  - [**kiss dry tda yagni soc** - Free Text](https://medium.com/@derodu/design-patterns-kiss-dry-tda-yagni-soc-828c112b89ee)
+ - **Terminal Course** [**Part 1**](https://www.youtube.com/watch?v=4Zx7UE70Ehs) [**Part 1.5**](https://www.youtube.com/watch?v=Nxy64wMv__A) [**Part 2**](https://www.youtube.com/watch?v=EyfLawJ81dI) [**Part 3**](https://www.youtube.com/watch?v=-WfG_sUz2A8)
+ 
  - [**Character encodings** - Free Text](https://www.w3.org/International/questions/qa-what-is-encoding)
  
 ## Frontend Roadmap
